@@ -1,0 +1,32 @@
+body{
+
+    background: linear-gradient(to right, #F295E1, #FCDCF9);
+
+}
+main, header{
+
+  text-align: center;
+    padding: 15px;
+font-family: 'Arial',sans-serif;
+}
+
+h1{
+font-family: 'Arial',Optima;
+}
+
+nav a {
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    border: 3px solid OrangeRed;
+    border-radius: 10px;
+    background-color: Salmon;
+    padding: 1px;
+    margin:;
+
+}
+
+footer {
+    text-align: center;
+}
+
